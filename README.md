@@ -62,4 +62,8 @@ producing the movement of the robotic arm.
 
 ## Demo
 
-[▶ Watch the full robot arm animation](Robot_Animation/animation/animation.mp4)
+<p align="center">
+  <img src="Robot_Animation/animation/animation.gif" width="700">
+</p>
+
+[▶ Watch the full MP4](Robot_Animation/animation/animation.mp4)
