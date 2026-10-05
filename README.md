@@ -55,5 +55,11 @@ For example:
 #declare Fi1 = 30*clock;
 #declare Fi2 = 60*clock;
 #declare Fi3 = 40*clock;
+```
+
+As `clock` changes during rendering, the angles of the joints change,
+producing the movement of the robotic arm.
+
+## Demo
 
 ▶️ [Watch the full robot arm animation](animation/animation.mp4)
